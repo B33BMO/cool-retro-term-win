@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/unscii/unscii-8-thin.ttf</file>
+        <file>fonts/unscii/unscii-16-full.ttf</file>
+        <file>fonts/unscii/unscii-8.ttf</file>
+        <file>fonts/oldschool-pc-fonts/PxPlus_IBM_EGA_8x8.ttf</file>
+        <file>fonts/oldschool-pc-fonts/PxPlus_IBM_VGA8.ttf</file>
+        <file>fonts/oldschool-pc-fonts/PxPlus_IBM_VGA_8x16.ttf</file>
+    </qresource>
+</RCC>

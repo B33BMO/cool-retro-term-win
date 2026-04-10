@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/apple2/PrintChar21.ttf</file>
+        <file>fonts/ibm-3278/3270NerdFontMono-Regular.ttf</file>
+        <file>fonts/fixedsys-excelsior/FSEX301-L2.ttf</file>
+        <file>fonts/cozette/CozetteVector.ttf</file>
+        <file>fonts/greybeard/Greybeard-16px.ttf</file>
+        <file>fonts/gohu/GohuFont11NerdFontMono-Regular.ttf</file>
+        <file>fonts/hack/HackNerdFontMono-Regular.ttf</file>
+        <file>fonts/fira-code/FiraCodeNerdFontMono-Regular.ttf</file>
+        <file>fonts/bigblue-terminal/BigBlueTerm437NerdFontMono-Regular.ttf</file>
+    </qresource>
+</RCC>

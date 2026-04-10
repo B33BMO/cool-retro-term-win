@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SizeOverlay.qml</file>
+        <file>ShaderTerminal.qml</file>
+        <file>CheckableSlider.qml</file>
+        <file>ApplicationSettings.qml</file>
+        <file>SettingsWindow.qml</file>
+        <file>TerminalWindow.qml</file>
+        <file>SettingsGeneralTab.qml</file>
+        <file>PreprocessedTerminal.qml</file>
+        <file>TimeManager.qml</file>
+        <file>SimpleSlider.qml</file>
+        <file>ColorButton.qml</file>
+        <file>AboutDialog.qml</file>
+        <file>InsertNameDialog.qml</file>
+        <file>SettingsEffectsTab.qml</file>
+        <file>main.qml</file>
+        <file>SettingsTerminalTab.qml</file>
+        <file>Storage.qml</file>
+        <file>SettingsAdvancedTab.qml</file>
+        <file>TerminalContainer.qml</file>
+        <file>TerminalTabs.qml</file>
+        <file>images/crt256.png</file>
+        <file>utils.js</file>
+        <file>images/allNoise512.png</file>
+        <file>../icons/32x32/cool-retro-term.png</file>
+        <file>Components/SizedLabel.qml</file>
+        <file>BurnInEffect.qml</file>
+        <file>TerminalFrame.qml</file>
+        <file>menus/WindowMenu.qml</file>
+        <file>menus/FullContextMenu.qml</file>
+        <file>menus/ShortContextMenu.qml</file>
+    </qresource>
+</RCC>

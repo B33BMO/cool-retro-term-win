@@ -1,0 +1,119 @@
+# C++ objects and libs
+
+*.slo
+*.lo
+*.o
+*.obj
+*.a
+*.la
+*.lai
+*.so
+*.dll
+*.dylib
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# Qt-es
+
+/.qmake.cache
+/.qmake.stash
+*.pro.user
+*.pro.user.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+*-build-*
+
+# Exception: keep Makefile references in packaging if any
+!packaging/**/Makefile
+
+# QtCreator
+
+*.autosave
+
+# QtCtreator Qml
+*.qmlproject.user
+*.qmlproject.user.*
+
+# Others
+
+*.xcf
+
+# Ubuntu SDk
+*.excludes
+*.json
+
+# Excludes compiled files
+
+imports
+cool-retro-term
+build
+build-*/
+build-win64/
+deploy/
+dist/
+
+# Generated shader files (compiled by qsb during build)
+app/shaders/*.qsb
+
+# Linux
+
+*.AppImage
+
+# Mac OSX
+
+.DS_Store
+*.app
+*.dmg
+
+# Windows / MSVC
+
+*.vcxproj*
+*.sln
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+Thumbs.db
+desktop.ini
+
+# IDE / editor
+
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.code-workspace
+
+# Debug / test artifacts (created in deploy dir during troubleshooting)
+
+*.log
+stdout*.log
+stderr*.log
+debug*.log
+screenshot.png
+fullscreen.png
+after.png
+window.png
+core
+core.*
+*.dmp
+
+# Python (for build helpers)
+
+__pycache__/
+*.pyc
+*.pyo

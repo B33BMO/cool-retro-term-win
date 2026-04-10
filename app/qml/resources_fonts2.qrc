@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/iosevka/IosevkaTermNerdFontMono-Regular.ttf</file>
+        <file>fonts/jetbrains-mono/JetBrainsMonoNerdFontMono-Regular.ttf</file>
+        <file>fonts/atari-400-800/AtariClassic-Regular.ttf</file>
+        <file>fonts/pet-me/PetMe64.ttf</file>
+        <file>fonts/pet-me/PetMe.ttf</file>
+        <file>fonts/terminus/TerminessNerdFontMono-Regular.ttf</file>
+        <file>fonts/departure-mono/DepartureMonoNerdFontMono-Regular.otf</file>
+        <file>fonts/opendyslexic/OpenDyslexicMNerdFontMono-Regular.otf</file>
+        <file>fonts/source-code-pro/SauceCodeProNerdFontMono-Regular.ttf</file>
+    </qresource>
+</RCC>
